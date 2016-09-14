@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ashleygwilliams/nodetogetherAMS/issues"
   },
-  "homepage": "https://github.com/ashleygwilliams/nodetogetherAMS#readme"
+  "homepage": "https://github.com/ashleygwilliams/nodetogetherAMS#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
